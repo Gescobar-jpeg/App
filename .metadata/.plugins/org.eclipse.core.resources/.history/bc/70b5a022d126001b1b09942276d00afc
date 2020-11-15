@@ -1,0 +1,15 @@
+package myproject;
+public class Application {
+
+	public static void main(String[] args) {
+	//operator performs actions on operands
+	// = - * /
+	int age  = 34 * 2;
+	
+	System.out.println(age);
+	
+	age = age + 1;
+	System.out.println(age);
+	}
+
+}

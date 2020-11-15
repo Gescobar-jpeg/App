@@ -1,0 +1,27 @@
+package myproject;
+public class Application {
+
+	public static void main(String[] args) {
+	//
+	/*
+	 * primitive:
+	 * int
+	 * double
+	 * float
+	 * long
+	 * short
+	 * byte
+	 * char
+	 * boolean
+	 * 
+	 * Objects
+	 * String - textual date a string of characters
+	 */
+	
+	// cariable identifier assigment operator, value semicolon
+	int age = 67;
+	System.out.println(age);
+	
+	}
+
+}

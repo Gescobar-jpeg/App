@@ -1,0 +1,2 @@
+module pikachu {
+}
